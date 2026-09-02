@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Thread Stability Repair"
+  short_description: "Recover stuck Codex tasks without replacing the thread"
+  default_prompt: "Use $codex-thread-stability-repair from this healthy control task to diagnose and recover the named target Codex task while preserving its identity and model."
